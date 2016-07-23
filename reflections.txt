@@ -1,0 +1,18 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+1. what new skills have I learned?
+I've learned about sublime and started using it instead of typing all of my tags, every time. 
+
+2. what has been easy/difficult? 
+The tutorials have been easy and the quizzes are straightforward, but trying to pay attention instead of spacing out is a challenge. 
+
+3. How have you used the problem solving strategies... etc
+I looked up some best practices between the use of a <p> tag vs. a <br> tag, and why one should use one over the other. 
