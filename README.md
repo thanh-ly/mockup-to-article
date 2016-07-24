@@ -1,2 +1,3 @@
-# mockup-to-article
-Udacity project - simple mockup to article
+documentation
+-------------
+Udacity project - simple HTML website, no javascript nor CSS formatting.
